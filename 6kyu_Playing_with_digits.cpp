@@ -1,6 +1,6 @@
 #include <vector>
 using namespace std;
-#include <iostream>
+
 class DigPow
 {
 public:
@@ -28,5 +28,5 @@ int DigPow::digPow(int n, int p) {
 
 int main()
 {
-	cout << DigPow::digPow(695, 2);
+
 }
