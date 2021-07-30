@@ -18,7 +18,7 @@ public:
                     n /= dp;
                     factors.push_back(dp);
                 }
-                else { // 다음 소수로 넘어가기;
+                else { // 다음 소수로 넘어가기
                     while (true) {
                         int isPrime = 1;
                         dp++;
