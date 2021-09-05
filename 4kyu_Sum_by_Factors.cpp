@@ -8,16 +8,15 @@ class SumOfDivided
 {
 public:
     static string sumOfDivided(vector<int>& lst) {
-        for (int i : lst) cout << i << " ";
-        cout << endl << endl;
         if (lst.empty()) return "";
         int max;
         if (*max_element(lst.begin(), lst.end()) > abs(*min_element(lst.begin(), lst.end()))) max = *max_element(lst.begin(), lst.end());
         else max = abs(*min_element(lst.begin(), lst.end()));
+
         map<int, int> result;
         for (int n = 2; n <= max; n++) {
             bool isPrime = true;
-            for (int d = 2; d < n; d++) {
+            for (int d = 2; d * d <= n; d++) {
                 if (n % d == 0) {
                     isPrime = false;
                     break;
@@ -25,14 +24,14 @@ public:
             }
             if (!isPrime) continue;
 
-            for (int i : lst) {
+            for (int i : lst)
                 if (i % n == 0) result[n] += i;
-            }
+
         }
+
         string resultStr = "";
-        for (auto it = result.begin(); it != result.end(); it++) {
+        for (auto it = result.begin(); it != result.end(); it++)
             resultStr += "(" + to_string((*it).first) + " " + to_string((*it).second) + ")";
-        }
 
         return resultStr;
     }
