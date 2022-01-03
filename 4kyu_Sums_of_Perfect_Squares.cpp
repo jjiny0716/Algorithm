@@ -10,7 +10,6 @@ int sum_of_squares(int n) { // brute force
 	vector<int> sqs;
 	for (int i = 0; i <= b; i++) sqs.push_back(i * i);
 
-
 	int result = 987654321;
 	map<int, bool> mp;
 	for (b = b; b >= 1; b--) {
