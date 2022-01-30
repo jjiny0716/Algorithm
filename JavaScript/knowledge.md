@@ -15,8 +15,14 @@
 
 ```
 [Running] node "c:\Users\yoojin\source\vscode\test.js"
-unshift * 100000: 1.637s     
+unshift * 100000: 1.637s
 push * 100000 + reverse: 3.941ms
 
 [Done] exited with code=0 in 1.74 seconds
 ```
+
+## 2022-01-30
+
+### 구조분해할당을 이용한 swap
+
+[a, b] = [b, a]
