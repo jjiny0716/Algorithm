@@ -11,3 +11,9 @@
 ### string.includes를 잘못 생각함.
 
 string으로 받은 town 리스트(towns)에서, 특정 town이 존재하는지 검사하기 위해 towns.includes()를 사용했다. 하지만 이러면, "Lon"을 town으로 주면, "London"에 Lon을 보고 찾은걸로 인식해서, true를 반환하는 오류가 있는 함수가 되었다(towns의 이름과 완벽하게 일치하는지를 검사하고 싶었음). towns를 Array로 변환해서 includes를 사용하던가, 정규식을 이용하는 방법으로 해결해야함. 
+
+## 2022-01-31
+
+### Object 순회를 위해 for of문을 사용함.
+
+Object를 순회하기 위해서는 for in이나 Object.keys, Object.values, Object.entries 메소드를 사용하면 됨.(후자가 성능이나 활용성면에서 좋아보임)
