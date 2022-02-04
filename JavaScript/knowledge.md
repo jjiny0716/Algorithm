@@ -37,3 +37,15 @@ push * 100000 + reverse: 3.941ms
 2. 최신 JS 엔진에서 여러 코드 구조를 최적화하는 것과 달리 eval()은 JS 인터프리터를 사용해야 하기 때문에 다른 대안들보다 느림.
 
 앞으로 eval함수를 사용하지 말자.
+
+## 2022-02-04
+
+### string.replace의 2번째 인자에 함수 전달
+
+매칭된 문자를 인자로 받고, 문자열을 리턴하는 함수를 전달하여 사용할 수 있다.
+
+```js
+line = line.replace(/ +/g, function (spaces) {
+  return spaces + (lineLen++ < len ? " " : "");
+});
+```
