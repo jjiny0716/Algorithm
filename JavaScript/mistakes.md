@@ -50,3 +50,9 @@ substring(i, 8)은 i부터 i + 8까지 자르는게 아니라, i부터 8까지�
 ## 2022-02-06
 
 ### 배열을 거꾸로 순회하는 for문을 썼는데 습관적으로 증감식에 i++를 입력함.
+
+## 2022-02-07
+
+### 매개변수의 type을 검사하기위해 instanceof를 사용함.
+
+instanceof은 객체의 프로토타입을 검사하는 연산자이기 때문에 string, boolean등의 primitive type에 대해서 작동하지 않는다. primitive type을 검사하기 위해선 typeof를 사용하자.
