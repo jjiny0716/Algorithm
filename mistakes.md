@@ -45,7 +45,7 @@ substring(i, 8)은 i부터 i + 8까지 자르는게 아니라, i부터 8까지�
 
 ## 2022-02-04
 
-### reduce의 return값을 잘못 설정함
+### reduce의 return값을 잘못 설정함.
 
 ## 2022-02-06
 
@@ -65,3 +65,7 @@ instanceof은 객체의 프로토타입을 검사하는 연산자이기 때문�
 const arr = Array.from({ length: 10 }, false); // 오류!
 const arr = Array.from({ length: 10 }, () => false); // 콜백함수를 전달해야한다.
 ```
+
+## 2022-02-10
+
+### m \* n크기의 배열을 input으로 받았는데, 습관적으로 정사각형인 것처럼 풀이를 진행함.
