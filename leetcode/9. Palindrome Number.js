@@ -6,6 +6,7 @@
 //   return x == x.toString().split('').reverse().join('');
 // };
 
+// faster
 var isPalindrome = function (x) {
   const origin = x;
   x = Math.abs(x);
