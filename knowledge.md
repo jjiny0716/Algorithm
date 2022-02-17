@@ -63,3 +63,9 @@ line = line.replace(/ +/g, function (spaces) {
 [...map.values()];
 Array.from(map.values());
 ```
+
+## 2022-02-17
+
+### 함수안에 함수
+
+알고리즘 문제를 풀때, 추가적인 함수를 만들때, 인자가 너무 많아진다면 함수안에 함수를 만드는 것을 고려해보자. solution함수안에 있는 함수는 solution함수에 있는 변수를 마치 global변수처럼 사용할 수 있다.
