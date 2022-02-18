@@ -17,3 +17,7 @@
 ## 2022-02-16 713. Subarray Product Less Than K
 
 input 정보를 보지 않고 잘못된 알고리즘으로 구현.
+
+## 2022-02-18 221. Maximal Square
+
+실패원인: 시간복잡도 (brute force)
