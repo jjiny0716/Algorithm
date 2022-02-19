@@ -77,3 +77,7 @@ const arr = Array.from({ length: 10 }, () => false); // 콜백함수를 전달�
 ## 2022-02-13
 
 ### Math.floor를 Number.floor로 잘못 씀.
+
+## 2022-02-19
+
+### swap을 해야하는 상황에서 구조분해할당을 사용하지 않아 과도하게 복잡한 코드를 작성함.

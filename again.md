@@ -11,3 +11,4 @@ https://www.codewars.com/kata/5672682212c8ecf83e000050 (시간복잡도 개선)
 
 https://leetcode.com/problems/add-two-numbers/ (푸는데 너무 오래걸림, 문제를 정확히 이해하기)
 https://leetcode.com/problems/game-of-life/ (공간복잡도 개선)
+https://leetcode.com/problems/rotate-image/discuss/18872/A-common-method-to-rotate-the-image (푸는데 너무 오래걸림, 2차원 배열 조작 숙련도)
