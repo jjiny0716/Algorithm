@@ -75,3 +75,16 @@ Array.from(map.values());
 ## Prefix sum (구간 합)
 
 a~b까지의 합을 의미한다. 부분 합을 전부 구해서 저장해두고, arr[b] - arr[a - 1]을 해주면 구해짐.
+
+## 2022-02-23
+
+## 단축평가 이용해서 map 사용하기
+
+```js
+// 원래 쓰던 방법 (2줄)
+if (!m.get(char)) m.set(char, 0);
+m.set(char, m.get(char) + 1);
+
+// 단축평가를 이용해서 1줄로 줄여보자.
+m.set(char, (m.get(char) || 0) + 1);
+```
