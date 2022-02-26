@@ -16,3 +16,5 @@ https://leetcode.com/problems/contiguous-array/ (Prefix sum(구간 합)이라는
 https://leetcode.com/problems/merge-sorted-array/ (배열 숙련도)
 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ (BFS)
 https://leetcode.com/problems/product-of-array-except-self/ (재밌는 아이디어, 추가공간 없이 풀이해보기)
+https://leetcode.com/problems/trapping-rain-water/submissions/ (다양한 방법, 시간, 공간 복잡도를 유지하면서 가독성 좋은 코드로 만들어보기)
+https://leetcode.com/problems/3sum/ (시간 복잡도, 깔끔한 코드로 개선)
