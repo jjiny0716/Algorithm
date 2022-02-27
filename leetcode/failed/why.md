@@ -29,3 +29,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-02-25 386. Lexicographical Numbers
 
 잘못된 알고리즘으로 구현. 범위가 늘어났을때 어떻게 동작하는지에 대한 깊은 생각을 하지 않았음.
+
+## 2022-02-27 81. Search in Rotated Sorted Array II
+
+이진 탐색, 중복 제거에 대한 이해 부족
