@@ -101,3 +101,14 @@ m.set(char, (m.get(char) || 0) + 1);
 ```js
 if (grid[i]===undefined || grid[i][j]===undefined)
 ```
+
+## 2022-03-02
+
+### 최소값, 최대값을 저장하는 변수의 초기화
+
+인풋의 첫번째 값을 사용해도 되지만, 빈 인풋을 대비해 infinity를 이용해볼 수 있겠다.
+
+```js
+let min = infinity;
+let max = -infinity;
+```

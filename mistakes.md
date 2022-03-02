@@ -105,3 +105,15 @@ list1 !== null && list2 !== null;
 // 둘중 하나라도 null이 되면 false임. (둘다 null이 아니어야 함)
 // 헷갈리면 드모르간 법칙을 이용해 볼 수도 있겠다.
 ```
+
+## 2022-03-02
+
+### undefined는 0이 아니다
+
+undefined와 0을 검사하기 위해 다음과 같은 식을 작성했다.
+
+```js
+if (someValue == 0)
+```
+
+위처럼 작성하면, someValue가 undefined일 때, undefined와 0가 false로 형변환이 되어서, true가 나올 줄 알았는데, 논리연산자를 사용한게 아니라서, boolean으로 형변환이 되지 않는 것이었다. 스택 오버플로우에 좋은 글이 있으니 한번 읽어보자. https://stackoverflow.com/questions/40615844/why-undefined-is-not-equal-to-zero-in-javascript
