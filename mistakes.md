@@ -117,3 +117,15 @@ if (someValue == 0)
 ```
 
 위처럼 작성하면, someValue가 undefined일 때, undefined와 0가 false로 형변환이 되어서, true가 나올 줄 알았는데, 논리연산자를 사용한게 아니라서, boolean으로 형변환이 되지 않는 것이었다. 스택 오버플로우에 좋은 글이 있으니 한번 읽어보자. https://stackoverflow.com/questions/40615844/why-undefined-is-not-equal-to-zero-in-javascript
+
+## 2022-03-03
+
+### visited표현 실수
+
+2차원 배열 순회중, 방문한 곳을 표시하기 위해 다음과 같은 코드를 작성했다.
+
+```js
+visited[`${y}${x}`] = true;
+```
+
+위의 코드느 오류의 원인이 되었다. 서로 다른 좌표가 같은 표현으로 저장될 수 있기 때문이다. 예를 들어 (1, 15)와 (11, 5)는 둘다 "115"로 저장된다. 이러한 케이스를 구별하기 위해 y와 x사이에 구분자를 넣도록 하자.
