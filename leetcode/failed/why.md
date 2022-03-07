@@ -37,3 +37,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-03-06 721. Accounts Merge
 
 특정 알고리즘 지식 부족(Union find)
+
+## 2022-03-07 287. Find the Duplicate Number
+
+잘못된 알고리즘으로 구현.   
