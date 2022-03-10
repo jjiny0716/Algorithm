@@ -141,3 +141,15 @@ target과 같은 값이 arr에 존재하면, 그 값의 인덱스를 반환받�
 Array.from({ length: n }, () => 0);
 new Array(n).fill(0);
 ```
+
+## 2022-03-10
+
+### 문자열 검사
+
+정규식을 이용해 문자열을 검사하고 싶다면, String.prototype.match()를 이용해보자.
+
+```js
+function isLetter(str) {
+  return str.length === 1 && str.match(/[a-z]/i);
+}
+```
