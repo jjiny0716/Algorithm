@@ -21,3 +21,5 @@ https://leetcode.com/problems/3sum/ (시간 복잡도, 깔끔한 코드로 개�
 https://leetcode.com/problems/course-schedule/discuss/?currentPage=1&orderBy=most_votes&query=&tag=javascript (정보를 그래프로 표현하는 법, DFS, Topological Sort)
 https://leetcode.com/problems/surrounded-regions/ (DFS 개선시키기)
 https://leetcode.com/problems/symmetric-tree/submissions/ (easy attempt 9번)
+https://leetcode.com/problems/replace-words/ (set말고 Trie 자료구조를 이용해 풀이해보기)
+https://leetcode.com/submissions/detail/659042893/ (BFS 자세히 공부하고 다시 풀기)
