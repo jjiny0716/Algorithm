@@ -191,3 +191,20 @@ map[char] = map[char] ? map[char]++ : (map[char] = 1);
 // 새로 찾은거
 map[char] = (map[char] || 0) + 1;
 ```
+
+### 문제를 거꾸로 생각해보는게 도움이 될 수 있다
+
+10개에서 3개를 선택하는 것 = 10개에서 7개를 선택하는 것 이런식으로.  
+https://leetcode.com/problems/non-overlapping-intervals/
+
+## 2022-03-20
+
+### 더 빠른 배열 초기화 방법
+
+```js
+// 기존에 사용하던 방식
+Array.from({ length: r }, () => Array.from({ length: c }, () => 0));
+
+// 이게 더 빠르다.
+Array.from({ length: r }, () => Array.from({ length: c }).fill(0));
+```
