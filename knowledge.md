@@ -208,3 +208,19 @@ Array.from({ length: r }, () => Array.from({ length: c }, () => 0));
 // 이게 더 빠르다.
 Array.from({ length: r }, () => Array.from({ length: c }).fill(0));
 ```
+
+## 2022-03-22
+
+### Object의 기본 키 정렬?
+
+자세히는 모르겠지만, Object에서 키값을 계속해서 숫자로 전달하면, 자동으로 키 값에 의해 정렬이 되는 것을 확인할 수 있었다.
+
+```js
+const obj = {};
+obj[1] = "one";
+obj[0] = "zero";
+console.log(obj);
+// { '0': 'zero', '1': 'one' }
+```
+
+이 성질을 이용해서 입력값을 정렬하지 않고도 문제를 풀어낼 수 있었다. 기억해두자.
