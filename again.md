@@ -29,3 +29,4 @@ https://leetcode.com/problems/reorganize-string/submissions/ (풀이하는데 �
 https://leetcode.com/problems/01-matrix/ (BFS 공부하고 다시 풀기)
 https://leetcode.com/problems/car-pooling/ (정렬없이 풀기, Difference Array)
 https://leetcode.com/problems/asteroid-collision/ (스택)
+https://leetcode.com/problems/knight-dialer/ (똑같이 dp로 풀었는데 상대적으로 느림.)
