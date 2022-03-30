@@ -61,3 +61,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-03-28 424. Longest Repeating Character Replacement
 
 시간 복잡도, sliding window 숙련도
+
+## 2022-03-30 310. Minimum Height Trees
+
+시간 복잡도
