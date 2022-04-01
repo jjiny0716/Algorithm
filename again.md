@@ -33,3 +33,5 @@ https://leetcode.com/problems/knight-dialer/ (똑같이 dp로 풀었는데 상�
 https://leetcode.com/problems/as-far-from-land-as-possible/ (최적화, bfs)
 https://leetcode.com/problems/unique-paths-ii/ (시간복잡도 계산으로 알고리즘 선택하기)
 https://leetcode.com/problems/k-closest-points-to-origin (K-th)
+https://leetcode.com/problems/distribute-coins-in-binary-tree/ (풀었는데도 이해가 잘 안됨(증명?), post order traversal)
+https://leetcode.com/problems/video-stitching/ (너무 헷갈려.....)
