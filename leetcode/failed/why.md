@@ -69,3 +69,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-04-03 501. Find Mode in Binary Search Tree
 
 추가 공간없이 풀기?
+
+## 2022-04-04 826. Most Profit Assigning Work
+
+그래프 이해도, Union find
