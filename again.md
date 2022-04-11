@@ -37,3 +37,4 @@ https://leetcode.com/problems/distribute-coins-in-binary-tree/ (풀었는데도 
 https://leetcode.com/problems/video-stitching/ (너무 헷갈려.....)
 https://leetcode.com/problems/longest-mountain-in-array/ (끝없는 if else를 줄여보자)
 https://leetcode.com/problems/longest-well-performing-interval/ (시간복잡도)
+https://leetcode.com/problems/valid-triangle-number/ (푸는데 너무 오래걸림, 힌트 봄)
