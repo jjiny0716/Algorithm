@@ -77,3 +77,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-04-14 988. Smallest String Starting From Leaf
 
 특정 케이스 실패
+
+## 2022-04-15 687. Longest Univalue Path
+
+잘못된 알고리즘으로 구현
