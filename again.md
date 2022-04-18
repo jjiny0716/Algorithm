@@ -39,3 +39,4 @@ https://leetcode.com/problems/longest-mountain-in-array/ (끝없는 if else를 �
 https://leetcode.com/problems/longest-well-performing-interval/ (시간복잡도)
 https://leetcode.com/problems/valid-triangle-number/ (푸는데 너무 오래걸림, 힌트 봄)
 https://leetcode.com/problems/open-the-lock/ (bfs 이해도 부족, 리팩토링)
+https://leetcode.com/problems/longest-string-chain/ (정렬대신 set을 이용하는 아이디어)
