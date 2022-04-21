@@ -42,3 +42,4 @@ https://leetcode.com/problems/open-the-lock/ (bfs 이해도 부족, 리팩토링
 https://leetcode.com/problems/longest-string-chain/ (정렬대신 set을 이용하는 아이디어)
 https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ (이진탐색 복습)
 https://leetcode.com/problems/set-mismatch/ (아이디어)
+https://leetcode.com/problems/minimum-number-of-frogs-croaking/ (큐 사용하지 않기)
