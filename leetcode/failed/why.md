@@ -85,3 +85,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-04-19 1488. Avoid Flood in The City
 
 잘못된 알고리즘으로 구현
+
+## 2022-04-22 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+
+시간 복잡도
