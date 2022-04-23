@@ -6,7 +6,7 @@
 
 정확하지 않은 알고리즘으로 구현.
 
-## 2022-02-14 134. Gas Station
+## 2022-02-14 [134. Gas Station](./solutions/Gas%20Station/)
 
 시간복잡도 (brute force)
 

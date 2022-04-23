@@ -11,7 +11,7 @@ var canCompleteCircuit = function (gas, cost) {
       for (station = (i + 1) % gas.length ; station !== i ; station = (station + 1) % gas.length) {
         gasTank += gas[station];
         gasTank -= cost[station];
-        if (gasTank < 0) break;
+        if (gasTank < 0) break; 
       }
       if (i === station) return i;
     }
