@@ -2,7 +2,7 @@
 
 못 푼 것들 써놓기.
 
-## 2022-02-11 1574. Shortest Subarray to be Removed to Make Array Sorted
+## 2022-02-11 1574. [Shortest Subarray to be Removed to Make Array Sorted](./solutions/Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted/)
 
 정확하지 않은 알고리즘으로 구현.
 
