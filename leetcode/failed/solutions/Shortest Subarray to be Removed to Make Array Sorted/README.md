@@ -1,12 +1,12 @@
 # 1574. Shortest Subarray to be Removed to Make Array Sorted
 
-## 문제 링크
-
-https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+- 작성 날짜: 2022-04-24
+- 문제 링크: https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+- 이해도: 중
 
 ## 실패 이유
 
-모든 경우의 수에 대응하는 알고리즘을 생각해내지 못함.
+- 모든 경우의 수에 대응하는 알고리즘을 생각해내지 못함.
 
 ## 문제 해결 아이디어
 
