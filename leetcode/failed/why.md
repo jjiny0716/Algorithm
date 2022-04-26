@@ -22,7 +22,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 시간복잡도 (brute force)
 
-## 2022-02-23 97. Interleaving String
+## 2022-02-23 97. [Interleaving String](./solutions/Interleaving%20String/)
 
 시간복잡도, s1[i1]과 s2[i2]가 같을때 탐색 범위가 2배로 늘어나 너무 많은 연산량을 필요로 한듯.
 
@@ -42,7 +42,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 잘못된 알고리즘으로 구현.
 
-## 2022-03-09 417. Pacific Atlantic Water Flow
+## 2022-03-09 [417. Pacific Atlantic Water Flow](./solutions/Pacific%20Atlantic%20Water%20Flow/)
 
 큰 입력에서의 디버깅 실패
 
