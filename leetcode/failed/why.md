@@ -38,7 +38,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 특정 알고리즘 지식 부족(Union find)
 
-## 2022-03-07 287. Find the Duplicate Number
+## 2022-03-07 287. [Find the Duplicate Number](./solutions/Find%20the%20Duplicate%20Number/)
 
 잘못된 알고리즘으로 구현.
 
