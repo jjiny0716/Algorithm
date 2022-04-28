@@ -18,7 +18,7 @@
 
 input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
-## 2022-02-18 221. Maximal Square
+## 2022-02-18 221. [Maximal Square](./solutions/Maximal%20Square/)
 
 시간복잡도 (brute force)
 
