@@ -274,3 +274,19 @@ const directions = [
 d = (d - 1 + DIR_COUNT) % DIR_COUNT;
 d = (d + 1) % DIR_COUNT;
 ```
+
+## 2022-04-29
+
+### 2중 반복문 한번에 탈출하기
+
+```js
+// for문에 레이블을 붙일 수 있다.
+outerLoop: for (let y = 0; y < n; y++) {
+  for (let x = 0; x < n; x++) {
+    if (grid[y][x] === 1) {
+      dfs(y, x);
+      break outerLoop;
+    }
+  }
+}
+```

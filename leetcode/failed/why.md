@@ -46,7 +46,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 큰 입력에서의 디버깅 실패
 
-## 2022-03-12 934. Shortest Bridge
+## 2022-03-12 [934. Shortest Bridge](./solutions/Shortest%20Bridge/)
 
 비효율적인 알고리즘
 
