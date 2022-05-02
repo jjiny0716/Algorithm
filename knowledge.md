@@ -290,3 +290,28 @@ outerLoop: for (let y = 0; y < n; y++) {
   }
 }
 ```
+
+## 2022-05-02
+
+### BFS 최적화
+
+```js
+while (queue.length) {
+  // steps를 좌표와 함께 저장하기.
+  // 내부에서 for문을 한번 더 이용해 기존 queue를 비워내는 방식보다 빠름
+  // 정확한 이유를 모르겠다.....
+  const [y, x, steps] = queue.shift();
+  if (y === n - 1 && x === m - 1) return steps;
+
+  for (let direction of directions) {
+    const [dy, dx] = direction;
+    const [ny, nx] = [y + dy, x + dx];
+    if (isValid(ny, nx)) {
+      queue.push([ny, nx, steps + 1]);
+      // queue에 집어넣을 때 마킹하기
+      // queue에서 뺄 때 마킹하면, 해당 좌표가 queue에 여러개가 있을 수 있게 됨.
+      maps[ny][nx] = 0;
+    }
+  }
+}
+```
