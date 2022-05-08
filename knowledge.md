@@ -315,3 +315,13 @@ while (queue.length) {
   }
 }
 ```
+
+## 2022-05-07
+
+### 여러개의 구분자로 split 사용하기
+
+정규 표현식을 이용하자.
+
+```js
+const numbers = expression.split(/[\+\-\*]/);
+```

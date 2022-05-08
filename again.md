@@ -44,3 +44,7 @@ https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ (이진�
 https://leetcode.com/problems/set-mismatch/ (아이디어)
 https://leetcode.com/problems/minimum-number-of-frogs-croaking/ (큐 사용하지 않기)
 https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/ (xor 성질, 간단한 수학으로 O(n)까지 줄이기)
+
+## programmers
+
+https://programmers.co.kr/learn/courses/30/lessons/67257 (더 나은 구조를 찾아보기)
