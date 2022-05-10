@@ -10,7 +10,7 @@
 
 시간복잡도 (brute force)
 
-## 2022-02-16 24. Swap Nodes in Pairs
+## 2022-02-16 [24. Swap Nodes in Pairs]()
 
 머리꼬임
 
@@ -74,7 +74,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 그래프 이해도, Union find
 
-## 2022-04-14 988. Smallest String Starting From Leaf
+## 2022-04-14 [988. Smallest String Starting From Leaf](./solutions/Smallest%20String%20Starting%20From%20Leaf/)
 
 특정 케이스 실패
 
