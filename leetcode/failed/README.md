@@ -10,11 +10,11 @@
 
 시간복잡도 (brute force)
 
-## 2022-02-16 [24. Swap Nodes in Pairs]()
+## 2022-02-16 [24. Swap Nodes in Pairs](./solutions/Swap%20Nodes%20in%20Pairs/)
 
 머리꼬임
 
-## 2022-02-16 713. Subarray Product Less Than K
+## 2022-02-16 713. [Subarray Product Less Than K](./solutions/Subarray%20Product%20Less%20Than%20K/)
 
 input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
