@@ -54,7 +54,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 잘못된 알고리즘으로 구현
 
-## 2022-03-24 413. Arithmetic Slices
+## 2022-03-24 [413. Arithmetic Slices](./solutions/Arithmetic%20Slices/)
 
 시간 복잡도 O(n^3)
 
