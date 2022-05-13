@@ -34,7 +34,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 이진 탐색, 중복 제거에 대한 이해 부족
 
-## 2022-03-06 721. Accounts Merge
+## 2022-03-06 [721. Accounts Merge](./solutions/Accounts%20Merge/)
 
 특정 알고리즘 지식 부족(Union find)
 
