@@ -89,3 +89,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 ## 2022-04-22 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 
 시간 복잡도
+
+## 2022-05-14 1130. Minimum Cost Tree From Leaf Values
+
+잘못된 알고리즘으로 구현
