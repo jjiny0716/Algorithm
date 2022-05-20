@@ -101,3 +101,7 @@ dp
 ## 2022-05-18 1626. Best Team With No Conflicts
 
 잘못된 알고리즘으로 구현
+
+## 2022-05-20 910. Smallest Range II
+
+이것 저것 해봤는데 안됨
