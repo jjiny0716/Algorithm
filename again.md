@@ -46,6 +46,7 @@ https://leetcode.com/problems/minimum-number-of-frogs-croaking/ (큐 사용하�
 https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/ (xor 성질, 간단한 수학으로 O(n)까지 줄이기)
 https://leetcode.com/problems/cherry-pickup-ii/ (두 방법으로 풀었는데, 왜 속도차이가 이렇게까지 나는지 모르겠음;)
 https://leetcode.com/problems/largest-sum-of-averages/submissions/ (dp 개선시키기)
+https://leetcode.com/problems/count-good-meals/ (속도 개선)
 
 ## programmers
 
