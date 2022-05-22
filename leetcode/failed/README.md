@@ -105,3 +105,7 @@ dp
 ## 2022-05-20 910. Smallest Range II
 
 이것 저것 해봤는데 안됨
+
+## 2022-05-22 1171. Remove Zero Sum Consecutive Nodes from Linked List
+
+잘못된 알고리즘으로 구현
