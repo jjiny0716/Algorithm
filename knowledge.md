@@ -325,3 +325,10 @@ while (queue.length) {
 ```js
 const numbers = expression.split(/[\+\-\*]/);
 ```
+
+## 2022-05-23
+
+### set과 bitmask
+
+값의 범위가 작고, set을 이용해 중복검사를 할 수 있디면, bitmask를 이용해 속도를 크게 증가시킬 수 있다.  
+bit을 켜서 해당 원소가 있음을 표시하고, and연산을 해서 0이 나오면 중복된 원소가 없는 원리를 이용.
