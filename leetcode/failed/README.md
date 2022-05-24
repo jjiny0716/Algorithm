@@ -113,3 +113,7 @@ dp
 ## 2022-05-23 324. Wiggle Sort II
 
 문제 이해 실패
+
+## 2022-05-24 474. Ones and Zeroes
+
+TLE(brute force)
