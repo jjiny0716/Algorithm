@@ -117,3 +117,7 @@ dp
 ## 2022-05-24 474. Ones and Zeroes
 
 TLE(brute force)
+
+## 2022-05-27 486. Predict the Winner
+
+알고리즘 생각 실패
