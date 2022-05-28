@@ -58,7 +58,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 시간 복잡도 O(n^3)
 
-## 2022-03-28 424. Longest Repeating Character Replacement
+## 2022-03-28 424. [Longest Repeating Character Replacement](./solutions/Longest%20Repeating%20Character%20Replacement/)
 
 시간 복잡도, sliding window 숙련도
 
