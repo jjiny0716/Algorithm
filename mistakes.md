@@ -170,3 +170,6 @@ Object.keys같은 메서드는 O(n)의 시간복잡도를 가진다. 따라서 �
 
 ### shift vs unshift
 
+- shift랑 unshift가 헷갈린다...
+- shift는 밖으로 빼는 거, unshift는 집어넣는 건데...
+- shift는 옮긴다는 뜻을 가지고 있는데, 배열 밖으로 옮긴다고 생각하면 도움이 될까?

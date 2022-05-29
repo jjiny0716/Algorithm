@@ -82,7 +82,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 잘못된 알고리즘으로 구현
 
-## 2022-04-19 1488. Avoid Flood in The City
+## 2022-04-19 [1488. Avoid Flood in The City](./solutions/Avoid%20Flood%20in%20The%20City/)
 
 잘못된 알고리즘으로 구현
 
