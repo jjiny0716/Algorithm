@@ -125,3 +125,7 @@ TLE(brute force)
 ## 2022-05-30 1248. Count Number of Nice Subarrays
 
 잘못된 알고리즘으로 구현
+
+## 2022-05-31 740. Delete and Earn
+
+정확하지 않은 dp
