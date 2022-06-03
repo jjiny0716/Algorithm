@@ -78,7 +78,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 특정 케이스 실패
 
-## 2022-04-15 687. Longest Univalue Path
+## 2022-04-15 [687. Longest Univalue Path](./solutions/Longest%20Univalue%20Path/)
 
 잘못된 알고리즘으로 구현
 
@@ -90,7 +90,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 시간 복잡도
 
-## 2022-05-14 1130. Minimum Cost Tree From Leaf Values
+## 2022-05-14 [1130. Minimum Cost Tree From Leaf Values](./solutions/Minimum%20Cost%20Tree%20From%20Leaf%20Values/);
 
 잘못된 알고리즘으로 구현
 
