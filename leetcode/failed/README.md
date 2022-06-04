@@ -62,7 +62,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 시간 복잡도, sliding window 숙련도
 
-## 2022-03-30 310. Minimum Height Trees
+## 2022-03-30 [310. Minimum Height Trees](./solutions/Minimum%20Height%20Trees/)
 
 시간 복잡도
 
