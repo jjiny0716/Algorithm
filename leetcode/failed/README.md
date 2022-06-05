@@ -86,7 +86,7 @@ input 정보를 보지 않고 잘못된 알고리즘으로 구현.
 
 잘못된 알고리즘으로 구현
 
-## 2022-04-22 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+## 2022-04-22 [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./solutions/Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/)
 
 시간 복잡도
 
