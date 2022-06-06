@@ -129,3 +129,7 @@ TLE(brute force)
 ## 2022-05-31 740. Delete and Earn
 
 정확하지 않은 dp
+
+## 2022-06-06 621. Task Scheduler
+
+모르겠음
