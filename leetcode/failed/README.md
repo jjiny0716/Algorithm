@@ -133,3 +133,7 @@ TLE(brute force)
 ## 2022-06-06 621. Task Scheduler
 
 모르겠음
+
+## 2022-06-07 1594. Maximum Non Negative Product in a Matrix
+
+시간복잡도
