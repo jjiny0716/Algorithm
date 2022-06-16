@@ -137,3 +137,7 @@ TLE(brute force)
 ## 2022-06-07 1594. Maximum Non Negative Product in a Matrix
 
 시간복잡도
+
+## 2022-06-16 1631. Path With Minimum Effort
+
+시간복잡도, 다익스트라 알고리즘
