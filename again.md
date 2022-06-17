@@ -50,6 +50,7 @@ https://leetcode.com/problems/count-good-meals/ (속도 개선)
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ (푸는데 너무 오래걸림)
 https://leetcode.com/problems/swap-for-longest-repeated-character-substring/ (너무 복잡하게 푼 것 같음)
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ (속도 개선, 증명)
+https://leetcode.com/problems/add-two-numbers-ii/ (스택을 이용하는 아이디어)
 
 ## programmers
 
