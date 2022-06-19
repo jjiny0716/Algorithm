@@ -141,3 +141,7 @@ TLE(brute force)
 ## 2022-06-16 1631. Path With Minimum Effort
 
 시간복잡도, 다익스트라 알고리즘
+
+## 2022-06-19 662. Maximum Width of Binary Tree
+
+오버플로우 해결 실패
