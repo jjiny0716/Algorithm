@@ -51,6 +51,7 @@ https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ (푸는�
 https://leetcode.com/problems/swap-for-longest-repeated-character-substring/ (너무 복잡하게 푼 것 같음)
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ (속도 개선, 증명)
 https://leetcode.com/problems/add-two-numbers-ii/ (스택을 이용하는 아이디어)
+https://leetcode.com/problems/sum-of-subarray-ranges/ (다양한 아이디어 이해)
 
 ## programmers
 
