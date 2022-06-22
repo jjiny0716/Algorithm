@@ -52,6 +52,7 @@ https://leetcode.com/problems/swap-for-longest-repeated-character-substring/ (�
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ (속도 개선, 증명)
 https://leetcode.com/problems/add-two-numbers-ii/ (스택을 이용하는 아이디어)
 https://leetcode.com/problems/sum-of-subarray-ranges/ (다양한 아이디어 이해)
+https://leetcode.com/problems/find-the-most-competitive-subsequence/ (monotonic stack)
 
 ## programmers
 

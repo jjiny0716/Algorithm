@@ -145,3 +145,7 @@ TLE(brute force)
 ## 2022-06-19 662. Maximum Width of Binary Tree
 
 오버플로우 해결 실패
+
+## 2022-06-22 1674. Minimum Moves to Make Array Complementary
+
+다양한 케이스 처리 실패
