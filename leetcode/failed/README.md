@@ -153,3 +153,7 @@ TLE(brute force)
 ## 2022-06-26 880. Decoded String at Index
 
 오버플로우 해결 실패
+
+## 2022-07-05 1562. Find Latest Group of Size M
+
+알고리즘 구상 실패
