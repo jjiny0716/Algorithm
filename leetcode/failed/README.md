@@ -161,3 +161,7 @@ TLE(brute force)
 ## 2022-07-17 1864. Minimum Number of Swaps to Make the Binary String Alternating
 
 알고리즘 구상 실패
+
+## 2022-07-19 2295. Replace Elements in an Array
+
+문제 이해 실패
