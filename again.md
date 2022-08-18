@@ -57,6 +57,7 @@ https://leetcode.com/problems/make-sum-divisible-by-p/ (재대로 이해하기)
 https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/ (어려웠음)
 https://leetcode.com/problems/determine-if-two-strings-are-close/submissions/ (성능 개선)
 https://leetcode.com/problems/maximum-score-from-removing-stones/ (희안한 풀이 많다)
+https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/ (정렬 없이)
 
 ## programmers
 
