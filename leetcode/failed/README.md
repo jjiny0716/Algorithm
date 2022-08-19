@@ -165,3 +165,7 @@ TLE(brute force)
 ## 2022-07-19 2295. Replace Elements in an Array
 
 문제 이해 실패
+
+## 2022-08-19 684. Redundant Connection
+
+Union find
