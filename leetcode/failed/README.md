@@ -169,3 +169,7 @@ TLE(brute force)
 ## 2022-08-19 684. Redundant Connection
 
 Union find
+
+## 2022-08-22 1017. Convert to Base -2
+
+답을 봐도 모르겠음
