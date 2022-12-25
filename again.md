@@ -58,6 +58,7 @@ https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/ (�
 https://leetcode.com/problems/determine-if-two-strings-are-close/submissions/ (성능 개선)
 https://leetcode.com/problems/maximum-score-from-removing-stones/ (희안한 풀이 많다)
 https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/ (정렬 없이)
+https://leetcode.com/problems/most-profitable-path-in-a-tree/description/ (1dfs)
 
 ## programmers
 
