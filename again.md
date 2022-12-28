@@ -60,6 +60,7 @@ https://leetcode.com/problems/maximum-score-from-removing-stones/ (희안한 풀
 https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/ (정렬 없이)
 https://leetcode.com/problems/most-profitable-path-in-a-tree/description/ (1dfs)
 https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/ (이진 탐색)
+https://leetcode.com/problems/palindromic-substrings/description/ (다음엔 순수 내 아이디어로 풀 수 있기를)
 
 ## programmers
 
