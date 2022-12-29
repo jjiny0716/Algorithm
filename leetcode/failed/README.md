@@ -177,3 +177,7 @@ Union find
 ## 2022-09-24 936. Stamping The Sequence
 
 greedy vs dfs
+
+## 2022-12-29 698. Partition to K Equal Sum Subsets
+
+잘못된 알고리즘 설계
