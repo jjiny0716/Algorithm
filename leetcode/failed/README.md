@@ -181,3 +181,7 @@ greedy vs dfs
 ## 2022-12-29 698. Partition to K Equal Sum Subsets
 
 잘못된 알고리즘 설계
+
+## 2023-01-11 1690. Stone Game VII
+
+문제 이해 실패
