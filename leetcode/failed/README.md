@@ -185,3 +185,7 @@ greedy vs dfs
 ## 2023-01-11 1690. Stone Game VII
 
 문제 이해 실패
+
+## 2023-01-15 1262. Greatest Sum Divisible by Three
+
+아이디어 구현 실패
