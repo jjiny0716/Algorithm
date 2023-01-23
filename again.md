@@ -63,6 +63,7 @@ https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/ (�
 https://leetcode.com/problems/palindromic-substrings/description/ (다음엔 순수 내 아이디어로 풀 수 있기를)
 https://leetcode.com/problems/uncrossed-lines/description/ (100% 이해하기)
 https://leetcode.com/problems/flip-string-to-monotone-increasing/description/ (내 아이디어 이해하기)
+https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/description/ (성능 개선)
 
 ## programmers
 
