@@ -189,3 +189,7 @@ greedy vs dfs
 ## 2023-01-15 1262. Greatest Sum Divisible by Three
 
 아이디어 구현 실패
+
+## 2023-01-28 1387. Sort Integers by The Power Value
+
+ㅠ.ㅠ
