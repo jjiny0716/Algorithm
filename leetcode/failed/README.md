@@ -197,3 +197,7 @@ greedy vs dfs
 ## 2023-02-12 1353. Maximum Number of Events That Can Be Attended
 
 heap
+
+## 2023-04-11 1547. Minimum Cost to Cut a Stick
+
+시간복잡도 개선 실패
