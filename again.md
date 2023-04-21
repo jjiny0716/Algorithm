@@ -66,6 +66,7 @@ https://leetcode.com/problems/flip-string-to-monotone-increasing/description/ (�
 https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/description/ (성능 개선)
 https://leetcode.com/problems/count-vowel-strings-in-ranges/ (성능 개선)
 https://leetcode.com/problems/put-marbles-in-bags/description/ (quick select)
+https://leetcode.com/problems/make-k-subarray-sums-equal/description/ (코드 양 줄이기)
 
 ## programmers
 
