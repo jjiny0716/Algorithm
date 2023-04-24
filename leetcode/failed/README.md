@@ -201,3 +201,7 @@ heap
 ## 2023-04-11 1547. Minimum Cost to Cut a Stick
 
 시간복잡도 개선 실패
+
+## 2023-04-23 2654. Minimum Number of Operations to Make All Array Elements Equal to 1
+
+ 구현 실패
