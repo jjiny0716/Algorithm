@@ -67,6 +67,7 @@ https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operati
 https://leetcode.com/problems/count-vowel-strings-in-ranges/ (성능 개선)
 https://leetcode.com/problems/put-marbles-in-bags/description/ (quick select)
 https://leetcode.com/problems/make-k-subarray-sums-equal/description/ (코드 양 줄이기)
+https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/ (시간 단축)
 
 ## programmers
 
