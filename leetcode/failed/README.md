@@ -205,3 +205,7 @@ heap
 ## 2023-04-23 2654. Minimum Number of Operations to Make All Array Elements Equal to 1
 
  구현 실패
+
+## 2023-05-11 2602. Minimum Operations to Make All Array Elements Equal
+
+아이디어 구현 실패
