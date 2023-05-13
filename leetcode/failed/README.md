@@ -209,3 +209,7 @@ heap
 ## 2023-05-11 2602. Minimum Operations to Make All Array Elements Equal
 
 아이디어 구현 실패
+
+## 2023-05-13 1931. Painting a Grid With Three Different Colors
+
+bitmask 
