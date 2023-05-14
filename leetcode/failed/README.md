@@ -212,4 +212,8 @@ heap
 
 ## 2023-05-13 1931. Painting a Grid With Three Different Colors
 
-bitmask 
+bitmask
+
+## 2023-05-14 2392. Build a Matrix With Conditions
+
+topological sort에 대한 이해도 부족
