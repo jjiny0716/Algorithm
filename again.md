@@ -69,6 +69,8 @@ https://leetcode.com/problems/put-marbles-in-bags/description/ (quick select)
 https://leetcode.com/problems/make-k-subarray-sums-equal/description/ (코드 양 줄이기)
 https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/ (시간 단축)
 
+https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/ (간단하게)
+
 ## programmers
 
 https://programmers.co.kr/learn/courses/30/lessons/67257 (더 나은 구조를 찾아보기)
