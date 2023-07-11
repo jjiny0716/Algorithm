@@ -217,3 +217,7 @@ bitmask
 ## 2023-05-14 2392. Build a Matrix With Conditions
 
 topological sort에 대한 이해도 부족
+
+## 2023-07-11 2747. Count Zero Request Servers
+
+TLE
