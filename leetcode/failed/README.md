@@ -221,3 +221,7 @@ topological sort에 대한 이해도 부족
 ## 2023-07-11 2747. Count Zero Request Servers
 
 TLE
+
+## 2023-07-23 2266. Count Number of Texts
+
+DP
