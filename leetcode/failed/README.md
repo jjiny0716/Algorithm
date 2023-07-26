@@ -225,3 +225,7 @@ TLE
 ## 2023-07-23 2266. Count Number of Texts
 
 DP
+
+## 2023-07-27 2768. Number of Black Blocks
+
+공간 복잡도
