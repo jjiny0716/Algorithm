@@ -68,10 +68,9 @@ https://leetcode.com/problems/count-vowel-strings-in-ranges/ (성능 개선)
 https://leetcode.com/problems/put-marbles-in-bags/description/ (quick select)
 https://leetcode.com/problems/make-k-subarray-sums-equal/description/ (코드 양 줄이기)
 https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/ (시간 단축)
-
 https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/ (간단하게)   
-
 https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/  (좀더 명확한 근거 갖고 풀기)
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/ (더 빠르게)
 
 ## programmers
 
