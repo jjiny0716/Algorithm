@@ -229,3 +229,7 @@ DP
 ## 2023-07-27 2768. Number of Black Blocks
 
 공간 복잡도
+
+## 2023-08-10 2812. Find the Safest Path in a Grid
+
+시간 복잡도 (큐)
