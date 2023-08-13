@@ -72,6 +72,7 @@ https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/descript
 https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/  (좀더 명확한 근거 갖고 풀기)
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/ (더 빠르게)
 https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/ (개선)
+https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/ (재귀로 풀어보기)
 
 ## programmers
 
