@@ -37,3 +37,4 @@ UndergroundSystem.prototype.getAverageTime = function(startStation, endStation) 
   const { totalTime, count } = this.travelTimeMap[startStation][endStation];
   return totalTime / count;
 };
+
