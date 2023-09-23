@@ -74,6 +74,7 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
 https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/ (개선)
 https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/ (재귀로 풀어보기)
 https://leetcode.com/problems/shortest-path-with-alternating-colors/description/ (더 간결하게 풀 수 있음)
+https://leetcode.com/problems/shopping-offers/description/ (더 빠르게)
 
 ## programmers
 
