@@ -10,9 +10,9 @@ function solution(topping) {
     map2.set(t, (map2.get(t) || 0) + 1);
     map1.set(t, map1.get(t) - 1);
     if (!map1.get(t)) map1.delete(t);
-    if (map1.size === map2.size) ans++; 
+    if (map1.size === map2.size) ans++;
     else if (map1.size < map2.size) break;
   }
 
-  return ans; 
+  return ans;
 }
